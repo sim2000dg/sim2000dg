@@ -1,6 +1,6 @@
-## Hi everyone, I am Simone Di Gregorio ✌️
+# Hi everyone, I am Simone Di Gregorio ✌️
 
-### About me
+## About me
 I hold a bachelor degree in [Management and Computer Science](https://www.luiss.it/ammissione/offerta-formativa/laurea-triennale/management-computer-science) from LUISS and I am currently a student of the [Data Science Master's Degree](http://datascience.i3s.uniroma1.it/it) @Sapienza. 
 
 Through university and (a lot of) self-studying I have a solid background in data science, from simple ETL to modelling. In particular, I have in-depth knowledge of: 
@@ -11,7 +11,7 @@ Through university and (a lot of) self-studying I have a solid background in dat
 
 I am a former Data Science Intern @[KNIME](https://www.knime.com), the software company behind KNIME Analytics Platform (and its enterprise version, KNIME Server), a popular and powerful low-code tool to perform data science tasks, at every level. As an employee, I developed KNIME native low-code approaches for the Word2Vec complete pipeline and I also developed a fast new Python-based Word2Vec node based on Tensorflow, using a mix of low-level APIs (mainly for the pre-processing) and Keras for the modelling steps. The node is bound to be the first Python-based KNIME node released to the public, as a community extension, since I am taking over the future maintenance of the node. The code for the node is publicly available in one of my repositories, at [this link](https://github.com/sim2000dg/Word2VecPyNodeTF). The whole development process and related applications are documented in articles soon to be published on KNIME channels and external Medium blogs.
 
-### How to reach me
+## How to reach me
 For all things Data Science related you can contact me with:
 - [![](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/simonedigregorio/)
 - <a href="mailto:simone.digregorio.00@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/2048px-Mail_%28iOS%29.svg.png" width="14" /> Mail</a>
