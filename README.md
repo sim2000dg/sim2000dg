@@ -4,7 +4,7 @@
 I hold a bachelor degree in [Management and Computer Science](https://www.luiss.it/ammissione/offerta-formativa/laurea-triennale/management-computer-science) from LUISS and I am currently a student of the [Data Science Master's Degree](http://datascience.i3s.uniroma1.it/it) @Sapienza. 
 
 Through university and (a lot of) self-studying I have a solid background in data science, from simple ETL to modelling. In particular, I have in-depth knowledge of: 
-- R for machine learning modelling, statistics, reporting (R Markdown) and data manipulation, exploiting the tidyverse ecosystem far more than the base language.
+- R for machine learning, modelling, statistics, reporting (R Markdown) and data manipulation, exploiting the tidyverse ecosystem far more than the base language.
 - Python for scripting, manipulation, modelling and web scraping. Specifically, my experience revolves mostly around Pandas, NumPy, sci-kit and Tensorflow.  Experience with Tensorflow has been both with Keras and more low-level APIs.
 - [KNIME Analytics Platform](https://www.knime.com/knime-analytics-platform) and [KNIME Server](https://www.knime.com/knime-business-hub), now Business Hub, due to [university projects](https://hub.knime.com/simonedigreg/spaces/Public/latest/FinalProjectMKT/Workflow%20Final%20Challenge~mEkn8g_JscCIzb3i) and work experience. Specifically, I am [L1, L2 and L3](https://www.knime.com/blog/certification-program-updates-for-users) certified.
 - Relational paradigm for databases and SQL.
