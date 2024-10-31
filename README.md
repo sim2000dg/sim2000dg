@@ -12,7 +12,7 @@ Through university and (a lot of) self-studying I have a solid background in dat
 I am a former Data Science Intern @[KNIME](https://www.knime.com), the software company behind KNIME Analytics Platform (and its enterprise version), a popular and powerful low-code tool to perform data science tasks, at every level. As an employee, I developed KNIME native low-code approaches for the Word2Vec complete pipeline and I also developed a fast new Python-based Word2Vec node based on Tensorflow, using a mix of low-level APIs (mainly for the pre-processing) and Keras for the modelling steps. The code for the node is publicly available in one of my repositories, at [this link](https://github.com/sim2000dg/Word2VecPyNodeTF).
 
 Until recently, I also was a Teaching Assistant in Statistical Methods for Data Science and Laboratory, one of the main courses, spanning two semesters, 
-in the Data Science Master’s Degree @Sapienza, dealing with an introduction to Probability Theory before delving into Frequentist and Bayesian Inference. My interests are mainly in probability theory (and statistics) for stochastic processes and stochastic calculus, a field of mathematics related mainly to real analysis. 
+in the Data Science Master’s Degree @Sapienza, dealing with an introduction to Probability Theory before delving into Frequentist and Bayesian Inference. My interests are mainly in statistical learning and probability theory for stochastic processes and stochastic calculus.
 
 ## How to reach me
 For all things Data Science related you can contact me with:
