@@ -14,8 +14,8 @@ I am a former Data Science Intern @[KNIME](https://www.knime.com), the software 
 My research interests are mainly in mathematics: probability theory and statistical inference for stochastic processes (specifically, diffusions), theoretical computer science, algorithmic game theory and statistical learning theory applied to AGT topics. I work at the Department of Computer, Control, and Management Engineering @Sapienza in the group managed by Prof. Stefano Leonardi. I also help teaching a variety of courses in Sapienza, stemming from randomized algorithms to statistics and stochastic processes.
 
 You can find here a list of publications and/or activities related to my research:
-- Neural Drift Estimation for Ergodic Diffusions: Nonparametric Analysis and Numerical Exploration, _New Trends in Functional Statistics and Related Fields_, with Francesco Iafrate. The work is published as a proceeding of IWFOS 2025 (International Workshop on Functional and Operatorial Statistics), which was held in Novara, Italy.
-- Nearly Tight Regret Bounds for Profit Maximization in Bilateral Trade, _FOCS 2025_, with Federico Fusco, Chris Schwiegelshohn and Paul Duetting. (See you in Sydney in December!) I also presented the work at EC (Economics and Computation) in Stanford this year.
+- __Neural Drift Estimation for Ergodic Diffusions__: Nonparametric Analysis and Numerical Exploration, _New Trends in Functional Statistics and Related Fields_, with Francesco Iafrate. The work is published as a proceeding of IWFOS 2025 (International Workshop on Functional and Operatorial Statistics), which was held in Novara, Italy.
+- __Nearly Tight Regret Bounds for Profit Maximization in Bilateral Trade__, _FOCS 2025_, with Federico Fusco, Chris Schwiegelshohn and Paul Duetting. (See you in Sydney in December!) I also presented the work at EC (Economics and Computation) in Stanford this year.
 
 ## How to reach me
 - [![](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/simonedigregorio/)
