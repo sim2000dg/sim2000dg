@@ -15,7 +15,7 @@ My research interests are mainly in mathematics: probability theory and statisti
 
 You can find here a list of publications and/or activities related to my research:
 - Neural Drift Estimation for Ergodic Diffusions: Nonparametric Analysis and Numerical Exploration, _New Trends in Functional Statistics and Related Fields_, with Francesco Iafrate. The work is published as a proceeding of IWFOS 2025 (International Workshop on Functional and Operatorial Statistics), which was held in Novara, Italy.
-- Nearly Tight Regret Bounds for Profit Maximization in Bilateral Trade, _FOCS 2025_, with Federico Fusco, Chris Schwiegelshohn and Paul Duetting. I also presented the work at EC (Economics and Computation) in Stanford this year.
+- Nearly Tight Regret Bounds for Profit Maximization in Bilateral Trade, _FOCS 2025_, with Federico Fusco, Chris Schwiegelshohn and Paul Duetting. (See you in Sydney in December!) I also presented the work at EC (Economics and Computation) in Stanford this year.
 
 ## How to reach me
 - [![](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/simonedigregorio/)
