@@ -1,7 +1,7 @@
 # Hi everyone, I am Simone Di Gregorio ✌️
 
 ## About me
-I hold a bachelor's degree in [Management and Computer Science](https://www.luiss.it/ammissione/offerta-formativa/laurea-triennale/management-computer-science) from LUISS and I have gratuated with highest honors from the [Data Science Master's Degree](http://datascience.i3s.uniroma1.it/it) @Sapienza. I am now a PhD Student in Data Science @Sapienza.
+I hold a bachelor's degree in Management and Computer Science from LUISS and I have gratuated with highest honors from the [Data Science Master's Degree](http://datascience.i3s.uniroma1.it/it) @Sapienza. I am now a PhD Student in Data Science @Sapienza.
 
 Through university and (a lot of) self-studying I have a solid background in data science, from simple ETL to modelling. In particular, I have in-depth knowledge of: 
 - R for machine learning, modelling, statistics, reporting (R Markdown) and data manipulation, exploiting the tidyverse ecosystem far more than the base language.
